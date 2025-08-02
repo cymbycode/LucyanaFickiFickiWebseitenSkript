@@ -189,3 +189,4 @@ if __name__ == "__main__":
     # Um dieses Skript auszuführen, müssen Sie die `requests`-Bibliothek installieren:
     # pip install requests
     main()
+
